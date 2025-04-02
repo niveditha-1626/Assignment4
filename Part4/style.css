@@ -1,0 +1,28 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  height: 100%;
+  background-color: black;
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+h1 {
+  position: absolute;
+  top: 10px;
+  left: 20px;
+  margin: 0;
+  font-size: 2rem;
+  letter-spacing: -1px;
+  color: transparent;
+  text-shadow: 0 0 4px rgb(245, 8, 8);
+}
+
+p {
+  position: absolute;
+  top: 50px;
+  left: 20px;
+  margin: 0;
+  color: #aaa;
+  font-size: 1.2rem;
+}
